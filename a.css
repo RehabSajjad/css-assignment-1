@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: "Playfair Display";
+    background-color:#DEA253 
+
+}
+
+h1{
+    font-weight:800;
+    font-size: 47px;
+    text-align: center;
+    padding: 100px;
+    background-color:#893C00; 
+    margin-top: 0;
+}
+#nav{
+    text-align: center;
+    font-size: 20px;
+    font-weight:600;
+}
+a {
+    color: #196f3d;
+    text-decoration: none;
+    margin-right:20px;
+}
+h2{
+    font-weight:900;
+    font-size:35px;
+}
+.para{
+    color:#6e2c00;
+}
+p{
+    font-weight:550;
+    font-size:20px;
+}
